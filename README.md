@@ -24,7 +24,7 @@ Usage of AntibacMap
 --files xx.csv
 ```
 
-​			3. When using Evaluation_bacteria.py or Evaluation_target.py, you need to decompress models.zip
+​			3. When using Evaluation_bacteria.py or Evaluation_target.py, you need to decompress models.7z
 
 ​			4. After the application is started, the corresponding scoring file will be automatically generated under the current path, in the format of csv.
 
